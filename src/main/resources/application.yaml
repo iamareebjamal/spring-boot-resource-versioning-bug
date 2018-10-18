@@ -1,0 +1,7 @@
+spring:
+  resources:
+    chain:
+      enabled: true
+      strategy:
+        content:
+          enabled: true
